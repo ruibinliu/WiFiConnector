@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WiFiConnector</string>
+    <string name="wifi">修改通过广播连接的目标WiFi</string>
+</resources>
